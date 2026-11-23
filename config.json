@@ -10,7 +10,15 @@
     "com.google.android.gm"
   ],
   "palavras_chave": [],
-  "palavras_bloqueadas": [],
+  "palavras_bloqueadas": [
+    "Procurando novas mensagens",
+    "Verificando novas mensagens",
+    "WhatsApp em execução",
+    "Checking for new messages",
+    "Toque para mais informações",
+    "Fazendo backup",
+    "backup"
+  ],
   "anexar_midia": true,
   "incluir_nome_aparelho": true,
   "silencio_inicio": "",

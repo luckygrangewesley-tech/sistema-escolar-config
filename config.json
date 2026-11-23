@@ -1,0 +1,18 @@
+{
+  "telegram_ativo": true,
+  "encaminhar_todos": true,
+  "apps_permitidos": ["com.whatsapp"],
+  "apps_ignorados": [
+    "org.telegram.messenger",
+    "org.telegram.messenger.web",
+    "org.telegram.plus",
+    "org.thunderdog.challegram",
+    "com.google.android.gm"
+  ],
+  "palavras_chave": [],
+  "palavras_bloqueadas": [],
+  "anexar_midia": true,
+  "incluir_nome_aparelho": true,
+  "silencio_inicio": "",
+  "silencio_fim": ""
+}
